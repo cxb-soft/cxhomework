@@ -79,7 +79,7 @@
 
 1. 点击登录后首页的"布置作业",并输入答案及分值
 
-   ![](https://ftp.bmp.ovh/imgs/2021/01/e1ea87a487d93789.png)
+   ![](https://ftp.bmp.ovh/imgs/2021/01/a5c059fc3fc105e9.png)
 
    Tip 练习名中不可包含中文
    
@@ -101,7 +101,7 @@
 
 2. 查看作业完成情况
 
-   ![image-20210122213745164](C:\Users\neptunevon\Pictures\1\3.png)
+   ![](https://ftp.bmp.ovh/imgs/2021/01/e1ea87a487d93789.png)
 
 ---
 
