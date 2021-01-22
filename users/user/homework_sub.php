@@ -258,7 +258,6 @@
                 letter-spacing: 1px;
             }
     </style>
-    <div id="footer" class="mdui-typo">Copyright©2014-2021 <a href="//blog.bsot.cn">cxbsoft</a> All Rights Reserved</div>
 
 </body>
 </html>
