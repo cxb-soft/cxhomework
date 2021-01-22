@@ -93,6 +93,22 @@
             })
         }
     </script>
+    <style>
+        #footer {
+                height: 40px;
+                line-height: 40px;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+                text-align: center;
+                background: #333;
+                color: #fff;
+                font-family: Arial;
+                font-size: 12px;
+                letter-spacing: 1px;
+            }
+    </style>
+    <div id="footer" class="mdui-typo">Copyright©2014-2021 <a href="//blog.bsot.cn">cxbsoft</a> All Rights Reserved</div>
 </body>
 </html>
 
