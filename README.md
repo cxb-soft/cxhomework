@@ -1,4 +1,3 @@
-# cxhomework
+# CX 作业平台
 一个作业自动批改系统
 
-test
