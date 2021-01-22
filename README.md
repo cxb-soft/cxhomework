@@ -61,11 +61,11 @@
 
 2. 在“作业中心”中进入作业选择页面
 
-   ![image-20210122213301751](https://i.loli.net/2021/01/22/sfmyIgGQ3Ou1BDi.png)
+   ![](https://ftp.bmp.ovh/imgs/2021/01/736a3397ef7266b2.png)
    
 3. 点击未完成的作业后进入答题卡
 
-   ![image-20210122213410417](https://i.loli.net/2021/01/22/h1jqtTcrlyZKVYN.png)
+   ![](https://ftp.bmp.ovh/imgs/2021/01/a5c059fc3fc105e9.png)
 
 4. 选择、填写答案并提交
 
@@ -79,7 +79,7 @@
 
 1. 点击登录后首页的"布置作业",并输入答案及分值
 
-   ![image-20210122212409560](https://i.loli.net/2021/01/22/VmenkaTI6KNdRUg.png)
+   ![](https://ftp.bmp.ovh/imgs/2021/01/e1ea87a487d93789.png)
 
    Tip 练习名中不可包含中文
    
@@ -101,7 +101,7 @@
 
 2. 查看作业完成情况
 
-   ![image-20210122213745164](https://i.loli.net/2021/01/22/yQGiVfpL46jcxt8.png)
+   ![image-20210122213745164](C:\Users\neptunevon\Pictures\1\3.png)
 
 ---
 
