@@ -1,6 +1,8 @@
 # CX 作业平台
 
 > 一个作业自动批改批分系统
+>
+> [Github地址](https://github.com/cxb-soft/cxhomework)
 
 ## 简介
 
@@ -114,6 +116,8 @@
 > Email : [cxbsoft@bsot.cn](mailto:cxbsoft@bsot.cn)
 >
 > Telegram : [@cxbsoft](https://t.me/cxbsoft)
+>
+> Github : [cxb-soft](https://github.com/cxb-soft)
 
  
 
